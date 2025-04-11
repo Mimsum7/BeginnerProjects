@@ -1,6 +1,6 @@
 # BeginnerProjects
 
-I have embarked on a 30 day coding challenge to strengthen my programming skills. I will be doing one mini project per day to learn something new/reinforce what I know and populate my github. The projects will increase in difficulty per week and this is the repo for beginner projects.
+I embarked on a 5 day coding challenge to strengthen my programming skills. I did one mini project per day to learn something new/reinforce what I know and populate my github. These are beginner projects to let me get a feel for the concepts within them.
 
 Mini project 1: HelloWorld API
 I learnt to create an API using the python library Flask. This is my first time making an API from scratch and I have learnt a lot about working with Flask. I am now able to use decorators and functions as well as manipulate port numbers and roots. My challenge here was running into 404 errors when I changed the root and port numbers but I have learnt a lot of troubleshooting methods in the debugging process.
@@ -13,7 +13,6 @@ This project is an API that fetches random quotes and displays them on an html p
 
 Mini project 4: Currency converter
 I learnt how to use a real world API and strengthen my error handling skills with try-except function. The project was very straight forward with minimal errors to address. I am now able to use an external API and make GET requests as well as input validation. 
-Mini Project 4b: Currency Converter 2.0
-I scaled up this project by making it able to convert multiple currencies at once and I added a GUI using tkinter. I learnt about Python GUI when I was in first year of my software engineering degree and this was a nice refresher on how to use tkinter.
 
-Mini project 5:
+Mini Project 5: Currency Converter with GUI
+I scaled up this project by making it able to convert multiple currencies at once and I added a GUI using tkinter. I learnt about Python GUI when I was in first year of my software engineering degree and this was a nice refresher on how to use tkinter.
